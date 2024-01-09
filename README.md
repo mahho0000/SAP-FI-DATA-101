@@ -19,10 +19,10 @@ Disclaimer:  The data presented here are artificially generated and are not mean
 - [License](#license)
 
 ## Features
-- **Data Exploration:** Understand the structure and contents of the BSEG and BKPF tables.
 - **Python Code:** Apply knowledge through Python code for data manipulation and analysis.
-- **Statistical Analysis:** Perform statistical analysis on financial data.
-- **Financial Analysis:** Implement financial analysis techniques to derive meaningful insights.
+- **Data Preparation & Exploration:** Handle data issues, engineer new features, Understand the structure and contents of the BSEG and BKPF tables data.
+- **Statistical Analysis:** Perform statistical analysis on financial data to find abnormalities.
+- **Financial Analysis:** Implement financial ratio analysis techniques to derive meaningful insights.
 
 ## Requirements
 - Python 3.x
@@ -30,18 +30,18 @@ Disclaimer:  The data presented here are artificially generated and are not mean
 - Pandas (1.5.3)
 - NumPy
 - Matplotlib
-- seaborn (0.11.2)
+- Seaborn (0.11.2)
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sap-finance-analysis.git
+   git clone https://github.com/mahho0000/SAP-FI-DATA-101.git
    ```
 2. Install the required dependencies manually
    
 
 ## Usage
-1. Study free video course **[SAP-FI-DATA-101](https://www.youtube.com/watch?v=x3F_r6VMZfU&list=PLYSheVN0dF4PVqgjc0cyGCVEPhJUe_isk)** where I have two foundation topics explained Financial Accounting Fundamentals and SAP ERP ECC6, and also SAP FI Transaction Data Tables, BKPF and BSEG.
+1. Study free video course **[SAP-FI-DATA-101](https://www.youtube.com/watch?v=x3F_r6VMZfU&list=PLYSheVN0dF4PVqgjc0cyGCVEPhJUe_isk)** where there are two foundation topics "Financial Accounting Fundamentals" and "SAP ERP 101", and main topic "SAP FI Transaction Data", explaining BKPF and BSEG tables.
 2. Then, open the `SAP-FI-Data-101-Project.ipynb` notebook.
 3. Follow the instructions in the notebook to execute the code and perform the analysis.
 
