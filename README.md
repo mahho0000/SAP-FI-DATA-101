@@ -3,7 +3,10 @@
 ## Overview
 This repository contains the code for my capstone project in the SAP-FI-Data-101 course for data professionals. 
 The project focuses on exploring and analyzing data from the BSEG and BKPF tables in SAP FI using Python as well as some financial and statistical analysis. 
-The playlist with video course explains the information stored in these tables as well as foundation knowledge of financial accounting fundamentals and SAP ERP, while the capstone project demonstrates the practical application of this knowledge through statistical and financial analysis.
+**[The free video course SAP-FI-DATA-101](https://www.youtube.com/watch?v=x3F_r6VMZfU&list=PLYSheVN0dF4PVqgjc0cyGCVEPhJUe_isk)** explains the information stored in these tables as well as foundation knowledge of financial accounting fundamentals and SAP ERP, while the capstone project demonstrates the practical application of this knowledge through statistical and financial analysis.
+
+Disclaimer:  The data presented here are artificially generated and are not meant to specifically address the circumstances of any individual or entity. This information is provided for general illustrative purposes only.
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -38,7 +41,7 @@ The playlist with video course explains the information stored in these tables a
    
 
 ## Usage
-1. Study video course materials where I have two foundation topics explained Financial Accounting Fundamentals and SAP ERP ECC6, and also SAP FI Transaction Data Tables, BKPF and BSEG.
+1. Study free video course **[SAP-FI-DATA-101](https://www.youtube.com/watch?v=x3F_r6VMZfU&list=PLYSheVN0dF4PVqgjc0cyGCVEPhJUe_isk)** where I have two foundation topics explained Financial Accounting Fundamentals and SAP ERP ECC6, and also SAP FI Transaction Data Tables, BKPF and BSEG.
 2. Then, open the `SAP-FI-Data-101-Project.ipynb` notebook.
 3. Follow the instructions in the notebook to execute the code and perform the analysis.
 
