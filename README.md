@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the code for my capstone project in the SAP-FI-Data-101 course for data professionals. 
 The project focuses on exploring and analyzing data from the BSEG and BKPF tables in SAP FI using Python as well as some financial and statistical analysis. 
-**[The free video course SAP-FI-DATA-101](https://www.youtube.com/watch?v=x3F_r6VMZfU&list=PLYSheVN0dF4PVqgjc0cyGCVEPhJUe_isk)** explains the information stored in these tables as well as foundation knowledge of financial accounting fundamentals and SAP ERP, while the capstone project demonstrates the practical application of this knowledge through statistical and financial analysis.
+In my free **[SAP-FI-DATA-101 video course](https://www.youtube.com/watch?v=x3F_r6VMZfU&list=PLYSheVN0dF4PVqgjc0cyGCVEPhJUe_isk)**, I have two foundational lessons on "Financial Accounting Fundamentals" and "SAP ERP 101," with the main session covering the topic "SAP FI Transaction Data." This session explains the BKPF and BSEG tables, while this capstone project demonstrates the practical application of this knowledge through statistical and financial analysis using artificially created data.
 
 Disclaimer:  The data presented here are artificially generated and are not meant to specifically address the circumstances of any individual or entity. This information is provided for general illustrative purposes only.
 
@@ -41,7 +41,7 @@ Disclaimer:  The data presented here are artificially generated and are not mean
    
 
 ## Usage
-1. Study free video course **[SAP-FI-DATA-101](https://www.youtube.com/watch?v=x3F_r6VMZfU&list=PLYSheVN0dF4PVqgjc0cyGCVEPhJUe_isk)** where there are two foundation topics "Financial Accounting Fundamentals" and "SAP ERP 101", and main topic "SAP FI Transaction Data", explaining BKPF and BSEG tables.
+1. Study all three lessons in free video course **[SAP-FI-DATA-101](https://www.youtube.com/watch?v=x3F_r6VMZfU&list=PLYSheVN0dF4PVqgjc0cyGCVEPhJUe_isk)**: "Financial Accounting Fundamentals", "SAP ERP 101", "SAP FI Transaction Data: BKPF & BSEG tables".
 2. Then, open the `SAP-FI-Data-101-Project.ipynb` notebook.
 3. Follow the instructions in the notebook to execute the code and perform the analysis.
 
